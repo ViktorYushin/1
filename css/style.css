@@ -372,7 +372,7 @@ h1,h2,h3,h4,h5,h6{font-style: inherit;font-weight: 400;}
     background-color: #0052C1;
 }
 .nutition_contant_bg_3{
-    background: url('/IMG/Group.png') center center no-repeat;
+    background: url('../IMG/Group.png') center center no-repeat;
 }
 .nutition_contant_bg_4{
     background-color: #62D0DF;
@@ -476,7 +476,7 @@ h1,h2,h3,h4,h5,h6{font-style: inherit;font-weight: 400;}
 .help_bg{
     height: 800px;
     width: 450px;
-    background: url('/IMG/helpNavigator.png') left no-repeat;
+    background: url('../IMG/helpNavigator.png') left no-repeat;
     justify-content: space-around;
 }
 
@@ -534,7 +534,7 @@ h1,h2,h3,h4,h5,h6{font-style: inherit;font-weight: 400;}
 .ready_bg{
     height: 800px;
     width: 100%;
-    background: url('/IMG/ready.png') right no-repeat;
+    background: url('../IMG/ready.png') right no-repeat;
     /* justify-content: space-around; */
 }
 
@@ -566,7 +566,7 @@ h1,h2,h3,h4,h5,h6{font-style: inherit;font-weight: 400;}
     justify-content: start;
 }
 .info_bg{
-    background: url('/IMG/info.png') center center no-repeat;
+    background: url('../IMG/info.png') center center no-repeat;
     width: 400px;
     height: 300px;
 }
