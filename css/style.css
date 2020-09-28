@@ -211,6 +211,7 @@ h1,h2,h3,h4,h5,h6{font-style: inherit;font-weight: 400;}
 @media(max-width:740px){
     .ractangle_bg_img{
         background: url('../IMG/ractangle2.png') center center no-repeat;
+       
     }
     .ractangle_body{
         display: flex;
@@ -373,6 +374,7 @@ h1,h2,h3,h4,h5,h6{font-style: inherit;font-weight: 400;}
 }
 .nutition_contant_bg_3{
     background: url('../IMG/Group.png') center center no-repeat;
+    z-index: 3;
 }
 .nutition_contant_bg_4{
     background-color: #62D0DF;
@@ -477,6 +479,7 @@ h1,h2,h3,h4,h5,h6{font-style: inherit;font-weight: 400;}
     height: 800px;
     width: 450px;
     background: url('../IMG/helpNavigator.png') left no-repeat;
+    z-index: 3;
     justify-content: space-around;
 }
 
@@ -535,6 +538,7 @@ h1,h2,h3,h4,h5,h6{font-style: inherit;font-weight: 400;}
     height: 800px;
     width: 100%;
     background: url('../IMG/ready.png') right no-repeat;
+    z-index: 3;
     /* justify-content: space-around; */
 }
 
@@ -567,6 +571,7 @@ h1,h2,h3,h4,h5,h6{font-style: inherit;font-weight: 400;}
 }
 .info_bg{
     background: url('../IMG/info.png') center center no-repeat;
+    z-index: 3;
     width: 400px;
     height: 300px;
 }
