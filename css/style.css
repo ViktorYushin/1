@@ -628,7 +628,7 @@ h1,h2,h3,h4,h5,h6{font-style: inherit;font-weight: 400;}
     color: #fff ;
 }
 .footer-titile {
-    height: 60px;
+    height: 40px;
 }
 .footer{
     position: fixed;
@@ -640,7 +640,7 @@ h1,h2,h3,h4,h5,h6{font-style: inherit;font-weight: 400;}
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 40px;
+    height: 60px;
     color: #fff;
     background-color: rgb(0, 0, 0);
 }
